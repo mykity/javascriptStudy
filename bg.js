@@ -4,7 +4,7 @@ const IMG_NUMBER = 5;
 /*
 function handleImgLoad() {
     console.log('finished loading');
-} //이메세지는 깃허브 
+} //이메세지는 깃허브 테스트용 메세지 handleImgLoad와는 아무런 상관이 없음
 */
 
 function paintImage(imgNumber) {
