@@ -4,7 +4,7 @@ const IMG_NUMBER = 5;
 /*
 function handleImgLoad() {
     console.log('finished loading');
-}
+} //이메세지는 깃허브 
 */
 
 function paintImage(imgNumber) {
